@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        My name is <Text style={styles.bold}>Nana Frimpong</Text>
+        My name is <Text style={styles.bold}>Andrew Tano</Text>
       </Text>
     </View>
   );
